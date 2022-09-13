@@ -15,4 +15,12 @@ public class MenuScript : MonoBehaviour
         Debug.Log("Quit");
         Application.Quit();
     }
+    // public void InfoScene()
+    // {
+    //     SceneManager.LoadScene(5);
+    // }
+    // public void ReturnMain()
+    // {
+    //     SceneManager.LoadScene(0);
+    // }
 }
